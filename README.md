@@ -48,23 +48,16 @@ I am a B.E. Computer Engineering student (Graduating 2027) based in Mumbai, Indi
 
 ### 📂 Featured Projects
 
-**[NEX AI Healthcare Assistant]([LINK_TO_REPO_PLACEHOLDER])**  
-*FastAPI, PostgreSQL, Gemini AI, RAG, ChromaDB*  
-An AI-powered healthcare assistant with robust backend APIs, secure JWT authentication, and RAG-based retrieval for medical document processing and vector search.
 
-**[Axolotl]([LINK_TO_REPO_PLACEHOLDER])**  
+**[Axolotl]([https://github.com/VipulMore11/Axolotl])**  
 *Python, FastAPI, Gemini, GitLab CI/CD, AI Agents*  
 A self-healing software engineering agent that autonomously monitors CI/CD pipelines, utilizes AI to analyze root causes of failures, and generates targeted remediation proposals.
-
-**[VisionSearch (Missing Person Detection)]([LINK_TO_REPO_PLACEHOLDER])**  
-*Python, OpenCV, face_recognition, React, Node.js, MongoDB*  
-A full-stack computer vision system designed to identify and search for missing persons leveraging advanced facial recognition algorithms.
 
 **[AgroPulse]([LINK_TO_REPO_PLACEHOLDER])**  
 *Python, Machine Learning, Computer Vision*  
 A crop disease detection system utilizing computer vision techniques and machine learning models to help identify and manage plant health.
 
-**[Social Network Analysis & Community Detection]([LINK_TO_REPO_PLACEHOLDER])**  
+**[Social Network Analysis & Community Detection]([https://github.com/VipulMore11/social_media_campaign_handler])**  
 *Python, NetworkX, Matplotlib, Graph Theory*  
 Analyzed social network structures using graph theory. Implemented the Girvan-Newman algorithm for community detection and calculated network measures like edge density and betweenness centrality.
 
@@ -92,7 +85,7 @@ Analyzed social network structures using graph theory. Implemented the Girvan-Ne
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME_PLACEHOLDER]&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[ankita261152]&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ankita261152]&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff" height="150" alt="Top Languages" />
 </div>
 
