@@ -85,8 +85,8 @@ Analyzed social network structures using graph theory. Implemented the Girvan-Ne
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ankita261152]&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ankita261152]&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankita261152&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita261152&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff" height="150" alt="Top Languages" />
 </div>
 
 ---
