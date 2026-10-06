@@ -49,20 +49,17 @@ I am a B.E. Computer Engineering student (Graduating 2027) based in Mumbai, Indi
 ### 📂 Featured Projects
 
 
-**[Axolotl]([https://github.com/VipulMore11/Axolotl])**  
+**[Axolotl](https://github.com/VipulMore11/Axolotl)**  
 *Python, FastAPI, Gemini, GitLab CI/CD, AI Agents*  
 A self-healing software engineering agent that autonomously monitors CI/CD pipelines, utilizes AI to analyze root causes of failures, and generates targeted remediation proposals.
 
-**[AgroPulse]([LINK_TO_REPO_PLACEHOLDER])**  
+**[AgroPulse](https://github.com/your-username/AgroPulse)**  
 *Python, Machine Learning, Computer Vision*  
 A crop disease detection system utilizing computer vision techniques and machine learning models to help identify and manage plant health.
 
-**[Social Network Analysis & Community Detection]([https://github.com/VipulMore11/social_media_campaign_handler])**  
+**[Social Network Analysis & Community Detection](https://github.com/VipulMore11/social_media_campaign_handler)**  
 *Python, NetworkX, Matplotlib, Graph Theory*  
 Analyzed social network structures using graph theory. Implemented the Girvan-Newman algorithm for community detection and calculated network measures like edge density and betweenness centrality.
-
----
-
 ### 💼 Experience
 
 **Backend Developer Intern — Bionex Solutions**  
