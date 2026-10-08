@@ -71,7 +71,6 @@ Analyzed social network structures using graph theory. Implemented the Girvan-Ne
 ### 🏆 Achievements & Community Involvement
 - **PR Lead** @ CSI-ACE
 - **Event Organizer & Promoter** @ CodeCraft 2.0
-- Active member of **IEEE**
 - Experienced Hackathon participant, focusing on scalable AI and backend solutions.
 
 ---
